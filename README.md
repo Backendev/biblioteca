@@ -36,5 +36,9 @@ ___________________________________________________________________________
 PETICIONES
 
 POST -> /metabiblioteca/setbooks -> Agregar libros a base de datos
+
+
 POST -> /metabiblioteca/setauthors -> Agregar Autores a base de datos
+
+
 GET-> /metabiblioteca/getbooks -> Mostrar Json con libros y sus autores
