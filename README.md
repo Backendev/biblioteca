@@ -1,4 +1,4 @@
-Este proyecto es para la prueba tecnica de Metabiblioteca
+Este proyecto es desarrollado para la prueba tecnica de Metabiblioteca
 
 Configuracion de base da datos:
 
