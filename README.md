@@ -8,7 +8,9 @@ Configuacion de variables para coneccion -> Funcion coinstructora del objeto Con
 Nombre de tabla en base de datos - prueba_meta
 
 Se agregan sql con tablas 
+
 author -> author.sql
+
 book -> book.sql
 
 ___________________________________________________________________________
