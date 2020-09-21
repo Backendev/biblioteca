@@ -1,5 +1,4 @@
-Este proyecto es desarrollado para la prueba tecnica de Metabiblioteca
-
+Este proyecto es desarrollado en PHP
 Configuracion de base da datos:
 
 Sobre archivo config. php en carpeta principal del proyecto
